@@ -2,7 +2,7 @@
 
 ### Academics
 
-* Undergraduate at ShanghaiTech University
+* Undergraduate (sophomore) at ShanghaiTech University
 * Major: Computer Science
   * Interested in Computer Graphics
 * Teaching assistant in:
@@ -16,6 +16,7 @@
 * Initial / Founding member of RhythmGraphics
 * Rhythm Games / MUG (WACCA, Arcaea, CHUNITHM, Lanota, etc.)
 * Current founder of Arcaea Song Popularity Vote
+* Chemistry
 
 So much for now!
 
