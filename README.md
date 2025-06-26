@@ -6,7 +6,8 @@
 * Major: Computer Science
   * Interested in Computer Graphics
 * Teaching assistant in:
-  * Calculus I & II
+  * Calculus II, 2025 Spring
+  * Fragment Shader Art, 2025 Summer
 
 ---
 ### Interests
