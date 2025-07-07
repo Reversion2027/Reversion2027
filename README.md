@@ -8,7 +8,8 @@
 * Teaching assistant in:
   * Calculus II, 2025 Spring
   * Fragment Shader Art, 2025 Summer
-
+  * Calculus I, 2025 Fall
+  <!-- Applying: Probability and Statistics for EECS, 2025 Fall -->
 ---
 ### Interests
 
