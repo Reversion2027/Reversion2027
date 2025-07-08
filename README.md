@@ -9,14 +9,15 @@
   * Calculus II, 2025 Spring
   * Fragment Shader Art, 2025 Summer
   * Calculus I, 2025 Fall
-  <!-- Applying: Probability and Statistics for EECS, 2025 Fall -->
+ 
 ---
 ### Interests
 
 * Graphics Design & Motion Design
 * Initial / Founding member of RhythmGraphics
 * Rhythm Games / MUG (WACCA, Arcaea, CHUNITHM, Lanota, etc.)
-* Current founder of Arcaea Song Popularity Vote
+* Other games (Celeste, Monster Hunter Rise/World, Hogwards Legacy)
+* Current founder of Arcaea Song Popularity Vote (Now working on APV8)
 * Chemistry
 
 So much for now!
