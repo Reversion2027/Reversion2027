@@ -17,7 +17,7 @@
 * Initial / Founding member of RhythmGraphics
 * Rhythm Games / MUG (WACCA, Arcaea, CHUNITHM, Lanota, etc.)
 * Other games (Celeste, Monster Hunter Rise/World, Hogwards Legacy)
-* Current founder of Arcaea Song Popularity Vote (Now working on APV8)
+* Current founder of Arcaea Song Popularity Vote (Last project: APV8)
 * Chemistry
 
 So much for now!
