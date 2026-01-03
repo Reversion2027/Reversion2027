@@ -9,6 +9,7 @@
   * Calculus II, 2025 Spring
   * Fragment Shader Art, 2025 Summer
   * Calculus I, 2025 Fall
+  * Discrete Mathematics, 2026 Spring
  
 ---
 ### Interests
