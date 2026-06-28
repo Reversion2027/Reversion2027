@@ -7,7 +7,7 @@
   * Interested in Computer Graphics
 * Teaching assistant in:
   * Calculus II, 2025 Spring
-  * Fragment Shader Art, 2025 Summer
+  * Fragment Shader Art, 2025 Summer, 2026 Summer
   * Calculus I, 2025 Fall
   * Discrete Mathematics, 2026 Spring
  
