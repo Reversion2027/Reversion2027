@@ -10,6 +10,7 @@
   * Fragment Shader Art, 2025 Summer, 2026 Summer
   * Calculus I, 2025 Fall
   * Discrete Mathematics, 2026 Spring
+  * Probability & Statistics for EECS, 2026 Fall
  
 ---
 ### Interests
