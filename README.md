@@ -4,7 +4,7 @@
 
 * Undergraduate (junior) at ShanghaiTech University
 * Major: Computer Science
-  * Interested in Computer Graphics
+  * Specialize in Computer Graphics (Rendering & Geometry)
 * Teaching assistant in:
   * Calculus II, 2025 Spring
   * Fragment Shader Art, 2025 Summer, 2026 Summer
