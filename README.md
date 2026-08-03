@@ -2,7 +2,7 @@
 
 ### Academics
 
-* Undergraduate (junior) at ShanghaiTech University
+* Undergraduate (senior) at ShanghaiTech University
 * Major: Computer Science
   * Specialize in Computer Graphics (Rendering & Geometry)
 * Teaching assistant in:
